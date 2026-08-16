@@ -1,4 +1,15 @@
-The project demonstrates how real estate data can be transformed from raw, inconsistent listing data into a structured dataset suitable for statistical analysis, visualization, and predictive modeling.
+## Requirements
 
+* **Python 3**: Core execution environment.
+* **Pandas**: Data manipulation, cleaning, and tabular data structuring.
+* **NumPy**: Numerical operations and array handling.
+* **SciPy**: Advanced statistical testing and mathematical functions.
+* **Scikit-learn**: Machine learning model building, evaluation metrics, and feature transformations.
+* **Category Encoders**: Advanced categorical feature encoding techniques.
+* **Seaborn**: Statistical data visualization.
+* **Matplotlib**: Core plot customization and base visual generation.
+* **Plotly**: Interactive charting and exploratory data visualizations.
+* **Power BI**: Spatial mapping, interactive dashboard creation, and final reporting.
 
-Analysis of real estate listings in Argentina (Properati data), focused on Capital Federal properties priced above USD 500,000. The project has two complementary deliverables that share the same cleaned dataset:
+```bash
+pip install pandas numpy scipy scikit-learn category_encoders seaborn matplotlib plotly
