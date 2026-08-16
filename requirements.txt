@@ -9,7 +9,7 @@
 * **Seaborn**: Statistical data visualization.
 * **Matplotlib**: Plot customization and static visualizations.
 * **Plotly**: Interactive charts and exploratory data visualization.
-* **Power BI**: Geographic mapping, interactive dashboards, and final reporting.
+* **Power BI**: Geographic mapping, interactive dashboards and final reporting.
 
 ### Python Dependencies
 
