@@ -9,7 +9,7 @@
 * **Seaborn**: Statistical data visualization.
 * **Matplotlib**: Core plot customization and base visual generation.
 * **Plotly**: Interactive charting and exploratory data visualizations.
-* **Power BI**: Spatial mapping, interactive dashboard creation, and final reporting.
+* **Power BI**: Spatial mapping, interactive dashboard creation and final reporting.
 
 ```bash
 pip install pandas numpy scipy scikit-learn category_encoders seaborn matplotlib plotly
