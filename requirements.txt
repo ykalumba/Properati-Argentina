@@ -1,0 +1,4 @@
+The project demonstrates how real estate data can be transformed from raw, inconsistent listing data into a structured dataset suitable for statistical analysis, visualization, and predictive modeling.
+
+
+Analysis of real estate listings in Argentina (Properati data), focused on Capital Federal properties priced above USD 500,000. The project has two complementary deliverables that share the same cleaned dataset:
